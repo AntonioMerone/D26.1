@@ -40,8 +40,6 @@ const getLibri = function () {
           </div>
         `;
 
-        getLibri();
-
         container.appendChild(col);
 
         const btnScarta = col.querySelector(".btn-danger");
